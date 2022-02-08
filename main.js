@@ -44,7 +44,7 @@ Client.on('message', message =>{
         Client.command.get('ohno').execute(message, args);
     }
 })
-/*test bot*/  //Client.login('OTM4MTYzNzU3NzU3MTEyMzQy.YfmTFg.CSScjHra8TYnyt4Yg0R5o2sHneM')
 
-/*Tony Bot*/  Client.login('OTM3NzYxMTcwODM4OTE3MTMw.YfgcJQ.ozAc6YhhNWmRiomPfVU6Vbu-kQM')
+
+/*Tony Bot*/  Client.login('')
 
